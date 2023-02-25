@@ -1,0 +1,41 @@
+.search-article{
+    
+    background-color: #EEEEEE;
+}
+
+
+.search{
+    width: 300px;
+}
+
+ 
+.bottom-bar{
+    width: 100%;
+    margin-top: 2px;
+    float:left;
+}
+
+
+.special{
+    width: 40%;
+    margin-right: 3px;
+    text-align: center;
+    height: 90px;
+    background-color: #7EE5DA;
+      
+}
+
+.help{
+    width: 17%;
+    margin-right: 3px;
+    text-align: center;
+    height: 90px;
+    background-color: #70CCC2;
+}
+
+.getgoogle{
+    width: 42%;
+    text-align: center;
+    height: 90px;
+    background-color: #62B3AA;
+}
